@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://worldview.kt-o.com"><strong>🔗 Live Demo — worldview.kt-o.com</strong></a>
+  <a href="https://world-view-tactical-intelligence-3.vercel.app"><strong>🔗 Live Demo — worldview.kt-o.com</strong></a>
 </p>
 
 https://github.com/user-attachments/assets/b2bd05d2-f7be-49c8-a8c6-452b6b60cb34
